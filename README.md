@@ -1,2 +1,13 @@
 # Demmane
-# Direct link: demmane.netlify.app
+
+
+
+# Direct link: https://demmane.netlify.app
+
+
+
+
+TECH STACK:
+- HTML
+- CSS
+- SASS
